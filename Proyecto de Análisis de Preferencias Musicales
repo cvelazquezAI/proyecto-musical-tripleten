@@ -1,0 +1,41 @@
+# 🎧 Proyecto de Análisis de Preferencias Musicales
+
+Este proyecto fue desarrollado como parte del curso de ciencia de datos en **Tripleten**.  
+El objetivo fue analizar datos reales de reproducción de música online para comprobar si el comportamiento de los usuarios varía según la **ciudad** y el **día de la semana**.
+
+---
+
+## 📁 Contenido
+
+- `notebook.ipynb`: Notebook con el análisis completo (etapas 1, 2 y 3)
+
+---
+
+## 📊 ¿Qué aprendí?
+
+- Limpieza de datos (duplicados, valores nulos, estandarización)
+- Agrupación con `groupby()`
+- Pruebas estadísticas básicas (`ttest_ind`)
+- Visualización de datos con `matplotlib` y `seaborn`
+- Aplicación del enfoque "dividir-aplicar-combinar"
+
+---
+
+## 📌 Notas adicionales
+
+> Este fue el primer proyecto de análisis de datos que realicé durante mi formación en Tripleten, y marcó un antes y un después para mí.
+Aunque es un proyecto básico en cuanto a técnica, fue el punto de partida donde descubrí mi pasión por trabajar con datos. 🚀
+> Hoy veo este proyecto como el origen de un camino profesional. Más allá del código, es el archivo donde decidí que quería dedicarme a esto.
+
+---
+
+## 🧠 Resultado final
+
+La hipótesis fue **parcialmente aceptada**:  
+sí existen diferencias en el comportamiento musical entre **Springfield** y **Shelbyville**, pero no fueron estadísticamente significativas en todos los días.
+
+---
+
+## 📬 Contacto
+
+Si tienes sugerencias o preguntas, puedes encontrarme en GitHub: [@cvelazquezAI](https://github.com/cvelazquezAI)
